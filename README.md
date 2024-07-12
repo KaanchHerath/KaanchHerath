@@ -1,7 +1,7 @@
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 <p align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+Im+Kanchana+Herath!!👋!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+Im+Kanchana+Herath👋!)](https://git.io/typing-svg)
 
 
 <h3 align="center">A 3rd year BSc. Information Technology and Management Undergraduate from University of Moratuwa.</h3>
